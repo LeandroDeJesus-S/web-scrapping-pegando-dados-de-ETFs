@@ -1,5 +1,4 @@
 # Extraindo dados de ETFs
-<p align="center">Projeto realizado durante bootcamp da <a href="https://www.youtube.com/@varos-programacao">Varos 🤖</a></p>
 
 ### Site utilizado para extrair os dados
 - [Etf.com](https://www.etf.com/etfanalytics/etf-finder) 💹
